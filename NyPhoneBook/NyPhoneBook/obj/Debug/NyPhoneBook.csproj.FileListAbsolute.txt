@@ -1,0 +1,11 @@
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\bin\Debug\NyPhoneBook.exe.config
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\bin\Debug\NyPhoneBook.exe
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\bin\Debug\NyPhoneBook.pdb
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.csproj.AssemblyReference.cache
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.Form1.resources
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.Properties.Resources.resources
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.csproj.GenerateResource.cache
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.exe
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\obj\Debug\NyPhoneBook.pdb
+C:\Users\luis.wettre\Desktop\NYPHONE\NyPhoneBook\NyPhoneBook\bin\Debug\Database4.accdb
